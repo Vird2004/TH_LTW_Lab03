@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Lab03.Models;
+using DataAccess;
 namespace Lab03.Repositories
 {
     public class EFCategoryRepository : ICategoryRepository

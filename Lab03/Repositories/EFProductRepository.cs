@@ -1,4 +1,5 @@
-﻿using Lab03.Models;
+﻿using DataAccess;
+using Lab03.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace Lab03.Repositories
